@@ -21,7 +21,7 @@ Wizard: I sense the treasure lies somewhere within this cave. Nothing could poss
     * "You've doomed us."
     Wizard: Don't be superstitious, Bard. There's nothing in here.
         ** "Remember the last one?"
-        Zav: Ok, fine, one cave and one dragon. That doesn't mean they all have dragons--
+        Wizard: Ok, fine, one cave and one dragon. That doesn't mean they all have dragons--
 -> Dragon
             
 === Dragon ===
